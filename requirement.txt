@@ -1,0 +1,13 @@
+gradio
+python-dotenv
+langchain_core
+langsmith
+langchain_openai
+langchain
+langchain-deepseek
+pandas
+langchain_community
+chromadb
+dashscope
+
+openpyxl

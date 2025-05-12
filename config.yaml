@@ -1,0 +1,6 @@
+doc_embedding_threshold: 0.9
+doc_embedding_top_k: 25
+faq_embedding_threshold: 0.5
+faq_embedding_top_k: 2
+rerank_threshold: '0.3'
+rerank_top_k: '5'
